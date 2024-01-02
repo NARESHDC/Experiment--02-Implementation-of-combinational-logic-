@@ -24,6 +24,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ![image](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/70b404fd-cb0d-4200-b22f-9cb28c7b3d59)
 
 ## Program:
+
 ![Screenshot 2024-01-01 213728](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/7b073832-ce1e-4f25-b2c9-33b45f04294e)
 
 /*
