@@ -18,7 +18,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
  
 
-## Logic Diagram
+
 
 ## Procedure
 ![image](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/70b404fd-cb0d-4200-b22f-9cb28c7b3d59)
@@ -31,10 +31,14 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: NARESH.M
 RegisterNumber:  212223220064
 */
+## Output:
 ## RTL realization
 ![Screenshot 2024-01-01 213447](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/b217a1af-3422-4356-ab3d-d5d1e481f5b2)
-## Output:
-## RTL
+
+Trut table:
+
+![Screenshot 2024-01-02 183309](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/92dbb6ed-ac8d-4d74-8f77-d5053e9dfc5d)
+
 
 
 ## Timing Diagram
