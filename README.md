@@ -28,7 +28,7 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ![Screenshot 2024-01-01 213728](https://github.com/NARESHDC/Experiment--02-Implementation-of-combinational-logic-/assets/149348388/7b073832-ce1e-4f25-b2c9-33b45f04294e)
 
 /*
-Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
+
 Developed by: NARESH.M
 RegisterNumber:  212223220064
 */
